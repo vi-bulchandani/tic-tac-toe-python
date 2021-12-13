@@ -1,2 +1,2 @@
 # tic-tac-toe-python
-tic-tac-toe using minimax algorithm
+tic-tac-toe(human player v/s ai) using minimax algorithm
